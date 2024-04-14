@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3a3ae5-3828-4f0a-bc2b-22a4ba1373e9" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SunHelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="3e3a3ae5-3828-4f0a-bc2b-22a4ba1373e9" name="更改" comment="HelloWorld！">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +20,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SSSZEWEi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SSSZEWEi/WebBackend.git&quot;,
+    &quot;accountId&quot;: &quot;efe590ac-487e-43f7-84be-63d0badbda01&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2f5Z12WB56cTeJkOA6K42Df9zcW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,7 +56,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RunManager">
@@ -91,7 +99,39 @@
       <option name="presentableId" value="Default" />
       <updated>1713092680650</updated>
     </task>
+    <task id="LOCAL-00001" summary="HelloWorld！">
+      <option name="closed" value="true" />
+      <created>1713097943450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713097943450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HelloWorld！">
+      <option name="closed" value="true" />
+      <created>1713098075314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713098075314</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HelloWorld！" />
+    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld！" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
